@@ -2,7 +2,7 @@
 
 I have written a complete derivation of the mathematics behind logistic regression. I derived all the equations you may need to implement the algorithm from scratch. Including
 
-Cost and Loss function
+Cost and Loss function 
 Forward propagation
 Backward propagation
 Gradient descent
