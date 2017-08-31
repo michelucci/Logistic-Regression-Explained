@@ -1,7 +1,7 @@
 # Logistic Regression
 
 I wrote two notebooks on logistic regression. One contains the complete
-mathematical derivation and in one a complete python implementation
+mathematical derivation and one a complete python implementation
 from scratch (without the use of any library except numpy).
 
 ## Mathematical derivation of Logistic Regression
